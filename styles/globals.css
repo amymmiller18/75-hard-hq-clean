@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&family=Playfair+Display:wght@400;700&display=swap');
+
+:root {
+  --color-eucalyptus: #9cc5b0;
+  --color-sand: #f5f0e6;
+  --color-gold: #c6a26d;
+}
